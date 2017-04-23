@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="cfg" type="Ini" />
       <mapping pattern="a" type="Native" />
-      <mapping ext="md" type="Native" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="UML" />
