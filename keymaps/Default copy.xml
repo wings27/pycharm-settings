@@ -103,7 +103,6 @@
     <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="StepInto">
-    <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="StepOut">
