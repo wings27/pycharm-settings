@@ -1,4 +1,4 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-  <option name="myLocal" value="true" />
-</inspections>
+  <inspection_tool class="PyMethodMayBeStaticInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+</profile>
