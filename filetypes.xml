@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="cfg" type="Ini" />
       <mapping pattern="a" type="Native" />
+      <mapping ext="xlsm" type="Native" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
