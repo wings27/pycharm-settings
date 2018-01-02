@@ -2,12 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="cfg" type="Ini" />
       <mapping pattern="a" type="Native" />
       <mapping ext="xlsm" type="Native" />
-      <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="jl" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="UML" />
     </extensionMap>
   </component>
