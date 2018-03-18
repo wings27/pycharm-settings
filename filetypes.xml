@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="a" type="Native" />
       <mapping ext="xlsm" type="Native" />
+      <mapping pattern="req.txt" type="PLAIN_TEXT" />
+      <mapping pattern="python-dig-pic-encrypt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
